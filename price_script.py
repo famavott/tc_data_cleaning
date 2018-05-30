@@ -18,4 +18,4 @@ def clean_and_write_prices(in_csv, out_csv):
 
 if __name__ == '__main__':
     # change file names when calling function below and make sure paths are correct
-    clean_and_write_prices('Clean_Pricing_Tab_2.csv', 'out.csv')
+    clean_and_write_prices('csv/Clean_Pricing_Tab_2.csv', 'csv/out.csv')
